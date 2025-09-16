@@ -1,0 +1,64 @@
+{
+  "category": "databases",
+  "created_date": "2025-09-15T22:48:57.321739",
+  "default_ports": [
+    80,
+    443,
+    7000,
+    9042
+  ],
+  "dependencies": [
+    "java-11-openjdk"
+  ],
+  "description": "cassandra is a free and open-source distributed NoSQL database. Apache Cassandra provides high availability with no single point of failure, serving as an open-source alternative to Amazon DynamoDB or Azure Cosmos DB",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/databases/cassandra",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/databases/cassandra",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.321761",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "cassandra",
+  "repository_url": "https://github.com/howtomgr/cassandra",
+  "spec_version": "2.0",
+  "subcategory": "databases",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "databases",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "cassandra Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/databases/cassandra"
+}
